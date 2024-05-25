@@ -1,1 +1,2 @@
-# Couse-2-Final-Assignment-IBM
+# Course-2-Final-Assignment-IBM
+# This is the public repository for IBM assignment
